@@ -1,2 +1,2 @@
 # movies
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV Mana est une chaîne télévisée du Mozambique spécialisée au informations et autres.","sourceMoz":["http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNjk1NzIzOTRf/mana.png","titleMoz":"TV MANA"}]}]}
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"FICTION MOVIES TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceMoz":["https://video1.getstreamhosting.com:1936/8496/8496/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTYxMDNf/movieseven.jpg","titleMoz":"FICTION MOVIES"}]}]}
