@@ -1,17 +1,17 @@
 # movies
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MYTIME MOVIES"},
 
-{"descriptionNovela":"Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN DRAMA"},
+{"descriptionNovela":"Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzJf/rakudrama.jpg","titleNovela":"RAKUTEN DRAMA"},
 
-{"descriptionNovela":"Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN ACTION"},
+{"descriptionNovela":"Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzNf/rakuaction.jpg","titleNovela":"RAKUTEN ACTION"},
 
 {"descriptionNovela":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN FICTION"},
 
-{"descriptionNovela":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN MOVIE"},
+{"descriptionNovela":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","titleNovela":"RAKUTEN MOVIE"},
 
-{"descriptionNovela":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN TV"},
+{"descriptionNovela":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleNovela":"RAKUTEN TV"},
 
-{"descriptionNovela":"Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"WILDSIDE TV"},
+{"descriptionNovela":"Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzZf/wildside.png","titleNovela":"WILDSIDE TV"},
 
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MOVIES BOX"},
 
