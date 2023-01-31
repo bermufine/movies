@@ -13,13 +13,13 @@
 
 {"descriptionNovela":"Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzZf/wildside.png","titleNovela":"WILDSIDE TV"},
 
-{"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MOVIES BOX"},
-
 {"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjNf/movietwelve.jpg","titleNovela":"DISNEY MOVIES"},
 
 {"descriptionNovela":"Fictions Movies TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://streaming.tnt.afrikastream.com:8080/live/action_enc/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYxMDNf/movieseven.jpg","titleNovela":"ACTION MOVIES"},
 
 {"descriptionNovela":"A 12 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres","sourceNovela":["https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg","titleNovela":"A 12 MOVIES"},
+
+{"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODM1NzY1NjBf/moviebox.png","titleNovela":"MOVIES BOX"},
 
 {"descriptionNovela":"Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sourceNovela":["https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg","titleNovela":"GOSPEL MOVIES"},
 
