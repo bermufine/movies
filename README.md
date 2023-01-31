@@ -15,7 +15,7 @@
 
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MOVIES BOX"},
 
-{"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MYTIME MOVIES"},
+{"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjNf/movietwelve.jpg","titleNovela":"DISNEY MOVIES"},
 
 {"descriptionNovela":"Fictions Movies TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://streaming.tnt.afrikastream.com:8080/live/action_enc/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYxMDNf/movieseven.jpg","titleNovela":"ACTION MOVIES"},
 
