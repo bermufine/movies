@@ -5,7 +5,7 @@
 
 {"descriptionNovela":"Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzNf/rakuaction.jpg","titleNovela":"RAKUTEN ACTION"},
 
-{"descriptionNovela":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN FICTION"},
+{"descriptionNovela":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg","titleNovela":"RAKUTEN FICTION"},
 
 {"descriptionNovela":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","titleNovela":"RAKUTEN MOVIE"},
 
@@ -27,4 +27,7 @@
 
 {"descriptionNovela":"SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg","titleNovela":"SUPERSCREEN TV"},
 
-{"descriptionNovela":"Universal TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://50.7.237.4:8080/UNIVERSAL/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"UNIVERSAL"}]}]}
+{"descriptionNovela":"Universal TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://50.7.237.4:8080/UNIVERSAL/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"UNIVERSAL"},
+
+{"descriptionNovela":"Movie Sphere TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://moviesphere-plex.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM5MDdf/moviesphere.jpg","titleNovela":"MOVIE SPHERE"}
+]}]}
