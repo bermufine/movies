@@ -9,18 +9,9 @@
 
 {"descriptionNovela":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN MOVIE"},
 
+{"descriptionNovela":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"RAKUTEN TV"},
+
 {"descriptionNovela":"Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"WILDSIDE TV"},
-
-
-{"descriptionNovela":"Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"WILDSIDE TV"},
-
-
-
-
-
-
-
-
 
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MOVIES BOX"},
 
