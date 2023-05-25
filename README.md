@@ -1,7 +1,7 @@
 # movies
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Action Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://5.9.150.76:8080/actionhd/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjlf/movieten.jpg","titleNovela":"ACTION MOVIE"},
 
-{"descriptionNovela":"Polar Plus TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en français","sourceNovela":["http://162.19.18.141:49214/POLAR_PLUS_/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"POLAR PLUS TV"},
+{"descriptionNovela":"Polar Plus TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en français","sourceNovela":["http://162.19.18.141:49214/POLAR_PLUS_/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk1MDM5ODdf/polarplus.jpeg","titleNovela":"POLAR PLUS TV"},
 
 {"descriptionNovela":"Action TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://162.19.18.141:49214/ACTION/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"ACTION MOVIES"},
 
