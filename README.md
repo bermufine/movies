@@ -1,6 +1,16 @@
 # movies
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Action Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://5.9.150.76:8080/actionhd/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjlf/movieten.jpg","titleNovela":"ACTION MOVIE"},
 
+{"descriptionNovela":"Polar Plus TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en français","sourceNovela":["http://162.19.18.141:49214/POLAR_PLUS_/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"POLAR PLUS TV"},
+
+{"descriptionNovela":"Action TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://162.19.18.141:49214/ACTION/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"ACTION MOVIES"},
+
+{"descriptionNovela":"NRJ TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://162.19.18.141:49214/NRJ_12/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"NRJ TV"},
+
+{"descriptionNovela":"HBO Family TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://135.148.40.31:18000/HBO_Family_dtvco/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"HBO FAMILY"},
+
+{"descriptionNovela":"Studo Universal TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://135.148.40.31:18000/STUDIO_UNIVERSAL_HD/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"STUDIO UNIVERSAL"},
+
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MYTIME MOVIES"},
 
 {"descriptionNovela":"Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzJf/rakudrama.jpg","titleNovela":"RAKUTEN DRAMA"},
@@ -33,3 +43,12 @@
 
 {"descriptionNovela":"Movie Sphere TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://moviesphere-plex.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM5MDdf/moviesphere.jpg","titleNovela":"MOVIE SPHERE"}
 ]}]}
+
+
+
+
+
+
+
+
+
