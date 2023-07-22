@@ -1,6 +1,10 @@
 # movies
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Action Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://5.9.150.76:8080/actionhd/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjlf/movieten.jpg","titleNovela":"ACTION MOVIE"},
 
+{"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjRf/cinemaxs.jpeg","titleNovela":"CINE MAX"},
+
+{"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg","titleNovela":"CINE MAX"},
+
 {"descriptionNovela":"Polar Plus TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en français","sourceNovela":["http://162.19.18.141:49214/POLAR_PLUS_/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk1MDM5ODdf/polarplus.jpeg","titleNovela":"POLAR PLUS TV"},
 
 {"descriptionNovela":"Action TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://162.19.18.141:49214/ACTION/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"ACTION MOVIES"},
@@ -34,6 +38,8 @@
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODM1NzY1NjBf/moviebox.png","titleNovela":"MOVIES BOX"},
 
 {"descriptionNovela":"Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sourceNovela":["https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg","titleNovela":"GOSPEL MOVIES"},
+
+{"descriptionNovela":"Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sourceNovela":["https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzBf/radiotelepuissance.png","titleNovela":"RADIO TEL PUISSANCE"},
 
 {"descriptionNovela":"PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA5OTk4NTRf/plex.png","titleNovela":"PLEX TV"},
 
