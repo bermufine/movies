@@ -1,13 +1,14 @@
 # movies
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjRf/cinemaxs.jpeg","titleNovela":"CINE MAX"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"TMC Filmsest une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.177.125.251:8080/tmc/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleNovela":"TMC FILMS"},
+
+{"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjRf/cinemaxs.jpeg","titleNovela":"CINE MAX"},
+
+{"descriptionNovela":"MCM Films est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.177.125.251:8080/mcm/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleNovela":"MCM FILMS"},
+
 
 {"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg","titleNovela":"CINE MAX"},
 
-{"descriptionNovela":"Super Écran is a Canadian premium television network owned by Bell Media. It airs a mix of commercial-free films and television series. Films are primarily sourced from the United States and Canada, while the television series mostly consist of original series and programs from HBO and Showtime in the United States.","sourceNovela":["http://23.237.104.26:8080/SUPER_ECRAN_1/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI0NjE1Mjlf/superEcran1.jpeg","titleNovela":"SUPER ECRAN 1"},
-
 {"descriptionNovela":"Super Écran is a Canadian premium television network owned by Bell Media. It airs a mix of commercial-free films and television series. Films are primarily sourced from the United States and Canada, while the television series mostly consist of original series and programs from HBO and Showtime in the United States.","sourceNovela":["http://23.237.104.26:8080/SUPER_ECRAN_2/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI0NjE1Mjdf/SuperEcran2.png","titleNovela":"SUPER ECRAN 2"},
-
-{"descriptionNovela":"Super Écran is a Canadian premium television network owned by Bell Media. It airs a mix of commercial-free films and television series. Films are primarily sourced from the United States and Canada, while the television series mostly consist of original series and programs from HBO and Showtime in the United States.","sourceNovela":["http://23.237.104.26:8080/SUPER_ECRAN_3/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI0NjE1Mjhf/superEcran3.jpeg","titleNovela":"SUPER ECRAN 3"},
 
 {"descriptionNovela":"Super Écran is a Canadian premium television network owned by Bell Media. It airs a mix of commercial-free films and television series. Films are primarily sourced from the United States and Canada, while the television series mostly consist of original series and programs from HBO and Showtime in the United States.","sourceNovela":["http://23.237.104.26:8080/SUPER_ECRAN_4/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI0NjE1MjZf/SupersEcran4.png","titleNovela":"SUPER ECRAN 4"},
 
@@ -49,6 +50,10 @@
 
 {"descriptionNovela":"Movie Sphere TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://moviesphere-plex.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM5MDdf/moviesphere.jpg","titleNovela":"MOVIE SPHERE"}
 ]}]}
+
+
+
+{"descriptionNovela":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg","titleNovela":"CINE MAX"},
 
 
 
