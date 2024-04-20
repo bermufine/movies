@@ -1,5 +1,5 @@
 # movies
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjNf/movietwelve.jpg","titleNovela":"SUPER FILM"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"SUPER FILM"},
 
 {"descriptionNovela":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","titleNovela":"MYTIME MOVIES"},
 
@@ -57,6 +57,8 @@
 {"descriptionNovela":"Action Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://5.9.150.76:8080/actionhd/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODA3NTYwMjlf/movieten.jpg","titleNovela":"ACTION MOVIE"},
 
 {"descriptionNovela":"Universal TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://50.7.237.4:8080/UNIVERSAL/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"UNIVERSAL"},
+
+https://od.lk/s/M18yODA3NTYwMjNf/movietwelve.jpg
 
 
 
