@@ -27,7 +27,7 @@
 
 {"descriptionNovela":"FOX MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.59.221.131:8081/live/fx/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg","titleNovela":"FOX MOVIE"},
 
-{"descriptionNovela":"FOX MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.59.221.131:8081/live/tmc/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg","titleNovela":"FOX MOVIE"},
+{"descriptionNovela":"TMC MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.59.221.131:8081/live/tmc/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg","titleNovela":"TMC MOVIE"},
 
 {"descriptionNovela":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","titleNovela":"RAKUTEN MOVIE"},
 
