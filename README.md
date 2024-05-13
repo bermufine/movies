@@ -1,5 +1,7 @@
 # movies
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"SUPER FILM"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Film A tion est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.59.221.131:8081/live/actionhd/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"FILM ACTION"},
+
+{"descriptionNovela":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","titleNovela":"SUPER FILM"},
 
 {"descriptionNovela":"Cine Motion est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sourceNovela":["http://185.59.221.131:8081/live/cinemotion/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg","titleNovela":"CINE MOTION"},
 
